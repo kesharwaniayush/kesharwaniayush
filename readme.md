@@ -129,7 +129,7 @@ const Ayush = {
 ## <img src="live links.gif" height="25" />
 <div align="center">
 
-| **DevRank**[🔗](https://dev-rank-delta.vercel.app/) | **dev path**[🔗](https://devpath-kohl.vercel.app/) | **GramConnect**[🔗](https://gram-connect.vercel.app/) | **AI Resume Analyzer**[🔗](https://hackathon-hacktoberfest-2025.vercel.app/) | **LegaliTea AI**[🔗](https://legalitea-genai.vercel.app/) ||
+| **DevRank**[🔗](https://dev-rank-delta.vercel.app/) | **dev path**[🔗](https://devpath-kohl.vercel.app/) | **GramConnect**[🔗](https://gram-connect.vercel.app/) | **AI Resume Analyzer**[🔗](https://hackathon-hacktoberfest-2025.vercel.app/) | **LegaliTea AI**[🔗](https://legalitea-genai.vercel.app/) |
 
 </div>
 
