@@ -100,6 +100,26 @@ const Ayush = {
 
 </div>
 
+## <img src="github Stats.gif" height="25" />
+
+<div align="center">
+
+|                                                                                                      **📊 GitHub Analytics**                                                                                                      |                                                                                         **🔥 Contribution Streak**                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api?username=kesharwaniayush&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesharwaniayush&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="400"/> |
+
+
+
+|                                                                                                        **🌟 Most Used Languages**                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesharwaniayush&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff&card_width=445" alt="Top Languages" width="500"/> |
+
+|                                                                                           **📈 Contribution Graph**                                                                                           |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesharwaniayush&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
+
+</div>
+
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
