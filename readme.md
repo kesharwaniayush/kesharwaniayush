@@ -36,6 +36,8 @@ const Ayush = {
 
 ## 🎯 What I'm Up To
 
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=kesharwaniayush&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
+
 - 🔭 **Currently Working On:** Building scalable AI-powered applications
 - 🌱 **Learning:** Advanced system design patterns and cloud architectures
 - 👯 **Looking to Collaborate:** Open source projects and innovative hackathon ideas
